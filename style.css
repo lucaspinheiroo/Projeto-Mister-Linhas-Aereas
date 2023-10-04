@@ -89,6 +89,22 @@ article #atr {
     margin-left: 2.5em;
 
 }
+article #atr42{
+    margin-left: 40em;
+    font-size: 0.8em;
+
+}
+article #atresquerda {
+    width: 60% ;
+    height: auto;
+    margin-top: 1em;
+    margin-left: 15em;
+
+}
+article #descricao {
+    margin-left: 40em;
+    font-size: 0.8em;
+}
 article h2 {
     text-align: center;
     color: white;
@@ -125,4 +141,21 @@ article h3 {
     font-size: 25px;
     font-weight: bold;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+footer {
+    margin-top: 15em;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    font-size: 0.8em;
+    padding: 5px;
+}
+footer a{
+    color: white ;
+    font-weight: bolder;
+    text-decoration: none;
+}
+footer a:hover{
+    text-decoration: underline;
+    color: gold ;
 }
